@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="My NeedIt">00cc23d41b88d010eb27dc29cd4bcb41</applet_launcher>
+        <order>30</order>
+        <section display_value="My NeedIt">cd5de7d41b88d010eb27dc29cd4bcbb8</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Harel.Ben-Sheffer</sys_created_by>
+        <sys_created_on>2020-04-04 19:05:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4d5de7d41b88d010eb27dc29cd4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_4d5de7d41b88d010eb27dc29cd4bcbba</sys_update_name>
+        <sys_updated_by>Harel.Ben-Sheffer</sys_updated_by>
+        <sys_updated_on>2020-04-04 19:05:00</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <comments/>
+        <file_path/>
+        <instance_id>c5653fa8db686600d75ff897bf9619f5</instance_id>
+        <instance_name>stratasysdev</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_4d5de7d41b88d010eb27dc29cd4bcbba</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="My NeedIt">00cc23d41b88d010eb27dc29cd4bcb41</applet_launcher><order>30</order><section display_value="My NeedIt">cd5de7d41b88d010eb27dc29cd4bcbb8</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>Harel.Ben-Sheffer</sys_created_by><sys_created_on>2020-04-04 19:05:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4d5de7d41b88d010eb27dc29cd4bcbba</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_4d5de7d41b88d010eb27dc29cd4bcbba</sys_update_name><sys_updated_by>Harel.Ben-Sheffer</sys_updated_by><sys_updated_on>2020-04-04 19:05:00</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-56894774</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c61223981b48d010eb27dc29cd4bcb59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Harel.Ben-Sheffer</sys_created_by>
+        <sys_created_on>2020-04-04 19:05:00</sys_created_on>
+        <sys_id>c15de7d41b88d010eb27dc29cd4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1714694f8a50000001</sys_recorded_at>
+        <sys_updated_by>Harel.Ben-Sheffer</sys_updated_by>
+        <sys_updated_on>2020-04-04 19:05:00</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>c95de7d47988d0104eedf360307276bb</update_guid>
+        <update_guid_history>c95de7d47988d0104eedf360307276bb:-56894774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Harel.Ben-Sheffer</sys_created_by>
+        <sys_created_on>2020-04-04 19:11:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>4ff02fc6abf044b8b9547d1580aeb840</sys_id>
+        <sys_metadata>4d5de7d41b88d010eb27dc29cd4bcbba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_4d5de7d41b88d010eb27dc29cd4bcbba</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_4d5de7d41b88d010eb27dc29cd4bcbba">c15de7d41b88d010eb27dc29cd4bcbbc</sys_update_version>
+        <sys_updated_by>Harel.Ben-Sheffer</sys_updated_by>
+        <sys_updated_on>2020-04-04 19:11:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
